@@ -39,3 +39,4 @@ If you find an Issue, please open one at GitHub. If you can improve our product,
 e-r.io Team.
 
 [board]: https://e-radionica.com/hr/bandit-the-raccoon-btr.html
+[hardwareRepo]: https://github.com/e-radionicacom/Bandit-the-Racoon-Hardware-Eagle
