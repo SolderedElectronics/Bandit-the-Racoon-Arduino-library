@@ -10,16 +10,16 @@ BTR	KEYWORD1
 # Methods and Functions 
 #######################################	
 
-begin			KEYWORD2
-upaliLED		KEYWORD2
-duga			KEYWORD2
-cirkus			KEYWORD2
-temp			KEYWORD2
+begin	KEYWORD2
+upaliLED	KEYWORD2
+duga	KEYWORD2
+cirkus	KEYWORD2
+temp	KEYWORD2
 postaviJacinu	KEYWORD2
-poti            KEYWORD2
-potiV           KEYWORD2
-ugasiLED        KEYWORD2
-ldr             KEYWORD2
+poti	KEYWORD2
+potiV	KEYWORD2
+ugasiLED	KEYWORD2
+ldr	KEYWORD2
 
 
 #######################################
