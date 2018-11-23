@@ -65,7 +65,7 @@ void BTR::upaliLED(uint8_t _r, uint8_t _g, uint8_t _b) {
   clock.show();
 }
 //translated
-void BTR::LED_on(_r, _g, _b) {
+void BTR::LED_on(uint8_t _r, uint8_t _g, uint8_t _b) {
   upaliLED(_r, _g, _b);
 }
 
@@ -87,7 +87,7 @@ void BTR::upaliLED(String _c) {
   else if (_c == "plava") upaliLED(20,20,240);
 }
 //translated
-void BTR::upaliLED(String _c) {
+void BTR::LED_on(String _c) {
   if (_c == "red") upaliLED(240,20,20);
   else if (_c == "green") upaliLED(20,240,20);
   else if (_c == "blue") upaliLED(20,20,240);
